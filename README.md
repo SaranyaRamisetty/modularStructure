@@ -1,0 +1,2 @@
+# modulareStructure
+Basic angular modularisation 
