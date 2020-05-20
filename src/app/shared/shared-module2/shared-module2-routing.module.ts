@@ -9,7 +9,7 @@ const routes: Routes = [
     path: 'module2Comp',
     component: Module2cComponent
   }, {
-    path: 'module#Compo',
+    path: 'module3Compo',
     component: Module3cComponent
   }
 ];
